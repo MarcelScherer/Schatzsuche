@@ -1,0 +1,4 @@
+#Mon Apr 13 09:51:18 CEST 2020
+base.0=C\:\\Users\\scher\\Documents\\GitHub\\Schatzsuche\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
